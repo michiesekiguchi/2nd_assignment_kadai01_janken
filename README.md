@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://michiesekiguchi.github.io/kadai01_janken_0809/
+https://michiesekiguchi.github.io/2nd_assignment_kadai01_janken/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
